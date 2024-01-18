@@ -1,0 +1,29 @@
+body{
+    background-color:#0a0a23;
+}
+#game{
+    background-color:white;
+    max-width:500px;
+    max-height:400px;
+    margin: 20px auto 0 auto;
+    padding:10px
+}
+#text{
+    background-color:#0a0a23;
+    color:#ffffff;
+    padding:10px;
+}
+#controls ,#stats{
+    padding:5px;
+    border :1px solid black;
+}
+#monsterState{
+    display: none;
+    border:1px solid #0a0a23;
+    padding :5px;
+    color :#ffffff;
+    background-color:#c70d0d;
+}
+button{
+    background-image: linear-gradient(red,#feac32)
+}
